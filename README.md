@@ -1,2 +1,2 @@
 # yolo_as_one
-Infer yolo models
+install and Infer yolo models
