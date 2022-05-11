@@ -1,1 +1,1 @@
-yolo_models
+yolo_as_one

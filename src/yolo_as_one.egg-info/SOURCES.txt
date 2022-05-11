@@ -2,10 +2,10 @@ LICENSE.rst
 README.md
 setup.cfg
 setup.py
+src/yolo_as_one/__init__.py
+src/yolo_as_one/custom_sklearn.py
+src/yolo_as_one/install_models.py
 src/yolo_as_one.egg-info/PKG-INFO
 src/yolo_as_one.egg-info/SOURCES.txt
 src/yolo_as_one.egg-info/dependency_links.txt
-src/yolo_as_one.egg-info/requires.txt
 src/yolo_as_one.egg-info/top_level.txt
-src/yolo_models/__init__.py
-src/yolo_models/custom_sklearn.py
