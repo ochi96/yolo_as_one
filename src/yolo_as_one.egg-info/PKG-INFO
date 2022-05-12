@@ -1,11 +1,11 @@
 Metadata-Version: 1.0
 Name: yolo-as-one
-Version: 0.2
+Version: 0.5.7
 Summary: UNKNOWN
 Home-page: https://github.com/ochi96/yolo_as_one
 Author: Bramwel Ochieng
 Author-email: lol@gmail.com
 License: MIT
 Description: UNKNOWN
-Keywords: yolo installation inferencing
+Keywords: yolox yolor yolov5 installation inferencing
 Platform: UNKNOWN
