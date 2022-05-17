@@ -48,12 +48,12 @@ setup(
         './src/installation_scripts/yolor_installation.bat',
         './src/installation_scripts/yolox_installation.bat',
         './src/installation_scripts/yolov5_installation.bat',
-        './src/installation_scripts/yolor_inferencing.sh',
-        './src/installation_scripts/yolox_inferencing.sh',
-        './src/installation_scripts/yolov5_inferencing.sh',
-        './src/installation_scripts/yolor_inferencing.bat',
-        './src/installation_scripts/yolox_inferencing.bat',
-        './src/installation_scripts/yolov5_inferencing.bat',
+        './src/inference_scripts/yolor_inferencing.sh',
+        './src/inference_scripts/yolox_inferencing.sh',
+        './src/inference_scripts/yolov5_inferencing.sh',
+        './src/inference_scripts/yolor_inferencing.bat',
+        './src/inference_scripts/yolox_inferencing.bat',
+        './src/inference_scripts/yolov5_inferencing.bat',
 
     ]
 )

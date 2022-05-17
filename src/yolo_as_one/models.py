@@ -23,12 +23,12 @@ def install_models(model_name):
         print('model currently unavailable')
     pass
 
-def run_models(model_name):
-    if model_name in model_names:
+def run_models(args):
+    if args.model_name in model_names:
         if platform == "linux" or platform == "linux2":
-            call(f"{model_name}_inferencing.sh", shell=True)
+            call(f"{args.model_name}_inferencing.sh {args.source} {args.save_dir}", shell=True)
         elif platform == "win32":
-            call(f"{model_name}_inferencing.bat", shell=True)
+            call(f"{args.model_name}_inferencing.bat", shell=True)
         else:
             print('Operating Sytem unsupported')
     else:
